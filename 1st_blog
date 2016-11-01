@@ -1,0 +1,72 @@
+
+<!--This is a blog website -->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="blog_style.css">
+
+	<title>
+		Nanital Blog!!
+	</title>
+</head>
+<body>
+	<header id="page_header">
+		<h1>Nanital blog</h1>
+		<nav>
+			<ul>
+				<li><a href="#"> Latest Posts</a></li>
+				<li><a href="#"> Archives </a></li>
+				<li><a href="#"> Contributors</a></li>
+				<li><a href="#"> Contact us</a></li>
+			</ul>
+		</nav>
+	</header>
+	<section id="Posts">
+		<article class="Posts">
+			<header>
+				<h2>How many should we must put down for?</h2>
+				<p>posted by nanital on
+				<time datetime="2011-1-01T14:39"> october 1st, 2010 at 2:39pm</time>
+				</p>
+			</header>
+
+			<aside>
+				Aside for nanital, here we write content which is related to tag it is in.
+			</aside>
+			<p>
+			here we write article to be published about nanital whateve we we feel to be written . <br>
+			Nainital About this sound pronunciation (helpÂ·info) is a popular hill station in the Indian state <br>
+			of Uttarakhand and headquarters of Nainital district in the Kumaon foothills of the outer Himalayas. <br> Situated at an altitude of 2,084 metres (6,837 ft) above sea 
+			</p>
+			
+			<footer>
+			<p><a href="#"><i>25 Comments</i></a>.....</p>
+			</footer>
+		</article>
+	</section>
+	
+	<section id="sidebar">
+		<nav>
+			<h3>Archives</h3>
+			<ul>
+				<li><a href="#"> October 2010</a></li>
+				<li><a href="#">September 2010</a></li>
+				<li><a href="#">August 2010</a></li>
+			</ul>
+		</nav>
+	</section>
+	<footer id="page_footer">
+		<p>2010 Nanital blogco.</p>
+		<nav>
+			<ul>
+				<li><a href="#">home</a></li>
+				<li><a href="#">about</a></li>
+				<li><a href="#">terms</a></li>
+				<li><a href="#">privacy</a></li>
+			</ul>
+		</nav>
+	</footer>
+
+</body>
+</html>
